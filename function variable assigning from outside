@@ -1,0 +1,5 @@
+def painter(msg):
+  print("painter:", msg)
+  
+painter("Paint my house")
+    
